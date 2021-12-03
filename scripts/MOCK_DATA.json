@@ -1,0 +1,263 @@
+[
+  {
+    "name": "Mason Boulter",
+    "rank": "Major",
+    "sex": "M",
+    "startDate": "5/8/1982",
+    "email": "mboulter1@hp.com",
+    "phone": "297-342-9332",
+    "superior": "60abf240c85a8e61b4f08dd8"
+  },
+  {
+    "name": "Henrieta Ortner",
+    "rank": "Warrant Officer",
+    "sex": "F",
+    "startDate": "9/5/1973",
+    "email": "hortner2@sphinn.com",
+    "phone": "261-898-9939",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  },
+  {
+    "name": "Fran Cabel",
+    "rank": "Specialist",
+    "sex": "F",
+    "startDate": "2/28/1984",
+    "email": "fcabel3@admin.ch",
+    "phone": "930-529-3207",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  },
+  {
+    "name": "Fransisco Rubertelli",
+    "rank": "General",
+    "sex": "M",
+    "startDate": "6/21/1983",
+    "email": "frubertelli4@blinklist.com",
+    "phone": "261-691-2063",
+    "superior": "60abf1e6c85a8e61b4f08dd6"
+  },
+  {
+    "name": "Clayborne Doggrell",
+    "rank": "Lieutenant",
+    "sex": "M",
+    "startDate": "4/30/1977",
+    "email": "cdoggrell5@earthlink.net",
+    "phone": "343-913-9294",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  },
+  {
+    "name": "Con Revely",
+    "rank": "Major",
+    "sex": "M",
+    "startDate": "3/17/1998",
+    "email": "crevely6@printfriendly.com",
+    "phone": "314-947-1532",
+    "superior": "60abf1e6c85a8e61b4f08dd6"
+  },
+  {
+    "name": "Chrisse Drakes",
+    "rank": "Sergeant",
+    "sex": "M",
+    "startDate": "8/22/1997",
+    "email": "cdrakes7@homestead.com",
+    "phone": "524-107-4788",
+    "superior": "60abf240c85a8e61b4f08dd8"
+  },
+  {
+    "name": "Emery Camings",
+    "rank": "General",
+    "sex": "M",
+    "startDate": "10/1/1988",
+    "email": "ecamings8@ehow.com",
+    "phone": "667-644-6732",
+    "superior": "60abf1e6c85a8e61b4f08dd6"
+  },
+  {
+    "name": "Lyon Bateman",
+    "rank": "Captain",
+    "sex": "M",
+    "startDate": "1/13/1987",
+    "email": "lbateman9@hostgator.com",
+    "phone": "458-822-0236",
+    "superior": "60abf24ec85a8e61b4f08dd9"
+  },
+  {
+    "name": "Fields Onslow",
+    "rank": "Captain",
+    "sex": "M",
+    "startDate": "6/14/1992",
+    "email": "fonslowa@fotki.com",
+    "phone": "637-412-3334",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  },
+  {
+    "name": "Faunie Roubay",
+    "rank": "Captain",
+    "sex": "F",
+    "startDate": "6/28/1991",
+    "email": "froubayb@ed.gov",
+    "phone": "862-603-6261",
+    "superior": "60abf27fc85a8e61b4f08dda"
+  },
+  {
+    "name": "Alvy MacNeilley",
+    "rank": "Corporal",
+    "sex": "M",
+    "startDate": "5/19/1980",
+    "email": "amacneilleyc@springer.com",
+    "phone": "280-281-5872",
+    "superior": "60abf1e6c85a8e61b4f08dd6"
+  },
+  {
+    "name": "Finn Whiteside",
+    "rank": "Colonel",
+    "sex": "M",
+    "startDate": "11/28/1974",
+    "email": "fwhitesided@umn.edu",
+    "phone": "153-541-1831",
+    "superior": "60abf27fc85a8e61b4f08dda"
+  },
+  {
+    "name": "Aggie Bedminster",
+    "rank": "Captain",
+    "sex": "F",
+    "startDate": "11/8/1986",
+    "email": "abedminstere@jugem.jp",
+    "phone": "243-873-3677",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  },
+  {
+    "name": "Cristobal Casaro",
+    "rank": "Major",
+    "sex": "M",
+    "startDate": "10/3/1996",
+    "email": "ccasarof@twitpic.com",
+    "phone": "748-369-1089",
+    "superior": "60abf27fc85a8e61b4f08dda"
+  },
+  {
+    "name": "Jeffrey Wettern",
+    "rank": "Colonel",
+    "sex": "M",
+    "startDate": "10/26/1994",
+    "email": "jwetterng@opensource.org",
+    "phone": "901-337-1586",
+    "superior": "60abf1e6c85a8e61b4f08dd6"
+  },
+  {
+    "name": "Wyatan Oke",
+    "rank": "Warrant Officer",
+    "sex": "M",
+    "startDate": "11/5/1977",
+    "email": "wokeh@boston.com",
+    "phone": "266-163-5249",
+    "superior": "60abf240c85a8e61b4f08dd8"
+  },
+  {
+    "name": "Carolin Crossgrove",
+    "rank": "Major",
+    "sex": "F",
+    "startDate": "5/12/1993",
+    "email": "ccrossgrovei@dedecms.com",
+    "phone": "435-692-6470",
+    "superior": "60abf24ec85a8e61b4f08dd9"
+  },
+  {
+    "name": "Johannah Stivani",
+    "rank": "Captain",
+    "sex": "F",
+    "startDate": "3/26/1980",
+    "email": "jstivanij@census.gov",
+    "phone": "185-235-6131",
+    "superior": "60abf24ec85a8e61b4f08dd9"
+  },
+  {
+    "name": "Arty Deedes",
+    "rank": "Colonel",
+    "sex": "M",
+    "startDate": "10/10/1984",
+    "email": "adeedesk@histats.com",
+    "phone": "859-127-0154",
+    "superior": "60abf27fc85a8e61b4f08dda"
+  },
+  {
+    "name": "Berky Delion",
+    "rank": "Private",
+    "sex": "M",
+    "startDate": "4/5/1993",
+    "email": "bdelionl@slideshare.net",
+    "phone": "557-236-3239",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  },
+  {
+    "name": "Hendrik Yalden",
+    "rank": "Private",
+    "sex": "M",
+    "startDate": "7/17/1973",
+    "email": "hyaldenm@bluehost.com",
+    "phone": "849-178-7000",
+    "superior": "60abf27fc85a8e61b4f08dda"
+  },
+  {
+    "name": "Don Oulet",
+    "rank": "Sergeant",
+    "sex": "M",
+    "startDate": "2/10/1980",
+    "email": "douletn@elpais.com",
+    "phone": "451-971-4529",
+    "superior": "60abf240c85a8e61b4f08dd8"
+  },
+  {
+    "name": "Milt Rosenbush",
+    "rank": "Warrant Officer",
+    "sex": "M",
+    "startDate": "8/3/1973",
+    "email": "mrosenbusho@over-blog.com",
+    "phone": "304-708-5534",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  },
+  {
+    "name": "Sydelle Sherville",
+    "rank": "Private",
+    "sex": "F",
+    "startDate": "10/19/1971",
+    "email": "sshervillep@ask.com",
+    "phone": "797-966-9619",
+    "superior": "60abf27fc85a8e61b4f08dda"
+  },
+  {
+    "name": "Rafaello Showler",
+    "rank": "Corporal",
+    "sex": "M",
+    "startDate": "2/27/1971",
+    "email": "rshowlerq@github.com",
+    "phone": "458-443-7039",
+    "superior": "60abf27fc85a8e61b4f08dda"
+  },
+  {
+    "name": "Wilfrid Bolam",
+    "rank": "Major",
+    "sex": "M",
+    "startDate": "4/15/1974",
+    "email": "wbolamr@si.edu",
+    "phone": "660-346-7974",
+    "superior": "60abf240c85a8e61b4f08dd8"
+  },
+  {
+    "name": "Pen Mulqueeny",
+    "rank": "Lieutenant",
+    "sex": "M",
+    "startDate": "10/8/1994",
+    "email": "pmulqueenys@chron.com",
+    "phone": "913-689-1567",
+    "superior": "60abf1e6c85a8e61b4f08dd6"
+  },
+  {
+    "name": "Bordy Bazire",
+    "rank": "Warrant Officer",
+    "sex": "M",
+    "startDate": "2/20/1971",
+    "email": "bbaziret@cocolog-nifty.com",
+    "phone": "885-942-0889",
+    "superior": "60abf230c85a8e61b4f08dd7"
+  }
+]

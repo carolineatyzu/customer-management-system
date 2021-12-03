@@ -1,0 +1,38 @@
+/* edit page */
+.update-soldier {
+  width: 1000px;
+  margin: auto;
+}
+.submit-buttons {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.update-soldier-form {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+}
+
+.update-soldier-form > div {
+  width: 50%;
+}
+
+.update-soldier-form > .left-container > img {
+  width: 80%;
+}
+
+.update-soldier-form > .right-container > label {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+
+.err-msg {
+  color: #f44336;
+  font-size: 0.75rem;
+}
+
+.upload-avatar {
+  width: 300px;
+}
